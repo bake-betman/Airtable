@@ -216,4 +216,4 @@ Airtable is available as a **full free version** with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-14 00:53:00 UTC
+**Last updated:** 2026-09-14 05:53:26 UTC
